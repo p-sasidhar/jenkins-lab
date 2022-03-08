@@ -1,0 +1,3 @@
+[submodule "hello-world-servlet"]
+	path = hello-world-servlet
+	url = https://github.com/ligado/hello-world-servlet.git
